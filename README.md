@@ -68,3 +68,19 @@ Voici mes fiches de référence rapide pour les principaux langages que j'utilis
 - Concurrence avec spawn, try/rescue
 
 📄 [`elixir_cheatsheet.exs`](./elixir_cheatsheet.exs)
+---
+
+## 🐚 Bash
+- Commandes système, scripts, variables
+- Redirections, pipes, find/grep, boucles et fonctions
+
+📄 [`bash_cheatsheet.sh`](./bash_cheatsheet.sh)
+
+---
+
+## 🐳 Docker
+- Gestion d’images et conteneurs
+- Dockerfile & docker-compose
+- Réseaux, volumes, debug
+
+📄 [`docker_cheatsheet.sh`](./docker_cheatsheet.sh)
